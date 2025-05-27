@@ -1,4 +1,4 @@
 ---
-title: Yuo're not welcome to my blog
+title: You're not welcome to my blog
 ---
 
